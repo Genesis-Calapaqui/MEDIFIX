@@ -43,7 +43,7 @@
 
 ### **1. Clonar el repositorio**  
 ```bash
-git clone https://github.com/tu_usuario/MEDIFIX.git  
+git clone https://github.com/Genesis-Calapaqui/MEDIFIX.git 
 cd MEDIFIX
 ```
 ### **2. Copiar el directorio a la carpeta htdocs de XAMPP**  
